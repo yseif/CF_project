@@ -1,2 +1,2 @@
 # CF_project
-Machine learning and pan genome analysis of CF strains
+Machine learning and pan genome scripts for the analysis of cystic fibrosis strains
